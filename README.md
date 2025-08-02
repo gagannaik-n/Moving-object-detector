@@ -14,8 +14,8 @@ pip install opencv-python numpy
 
 ## ▶️ How to Run
 https://github.com/gagannaik-n/Moving-object-detector.git
-python moving_detector.py
-Press `q` to exit the program.
+ python moving_detector.py
+
 
 ## ⚙️ How It Works
 - Captures video from webcam.
